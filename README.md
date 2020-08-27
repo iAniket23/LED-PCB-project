@@ -1,7 +1,8 @@
 # LED-PCB-project   
 Simple LED circuit Schematic and PCB Layout (made in Altium Designer)   
-
- 
+Schematic:   
 ![](images/schematic.PNG)   
-![](images/pcb.png)     
-![](images/model.png)
+PCB Layout:   
+![](images/pcb.PNG)   
+3D Model:   
+![](images/model.PNG)

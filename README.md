@@ -8,4 +8,4 @@ PCB Layout:
 ![](images/model.PNG)
 
 
-   Thanks
+   Thanks!
